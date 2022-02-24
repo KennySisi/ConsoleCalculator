@@ -1,0 +1,8 @@
+﻿build/
+bin/
+.vs/
+obj/
+x64/
+*/bin/
+*/obj
+*/x64
